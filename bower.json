@@ -1,0 +1,22 @@
+{
+  "name": "optima-web",
+  "homepage": "https://github.com/bigfatnoob/optima-web",
+  "description": "Web based client for optima",
+  "main": "",
+  "authors": [
+    "bigfatnoob"
+  ],
+  "license": "The Unlicense",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "react": "^15.0.1",
+    "react-bootstrap": "^0.29.0"
+  }
+}
